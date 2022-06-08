@@ -1,0 +1,109 @@
+.shiny {
+    color: white;
+    border: none;
+    width: 125px;
+    height: 75px;
+    background: #3984ff;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 22.5px;
+}
+
+.shiny:hover {
+    color: #1e74ff;
+    border: none;
+    width: 125px;
+    height: 75px;
+    background: rgba(128, 123, 123, 0.459);
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 22.5px;
+}
+
+.cut {
+    color: white;
+    border: none;
+    width: 125px;
+    height: 75px;
+    background: #3984ff;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 22.5px;
+}
+
+.cut:hover {
+    color: #1e74ff;
+    border: none;
+    width: 125px;
+    height: 75px;
+    background: rgba(128, 123, 123, 0.459);
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 22.5px;
+}
+
+.shinylo {
+    color: white;
+    border: none;
+    width: 125px;
+    height: 75px;
+    background: rgb(202, 89, 227);
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 22.5px;
+}
+
+.shinylo:hover {
+    color: rgb(202, 89, 227);
+    border: none;
+    width: 125px;
+    height: 75px;
+    background: #6660d7;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 22.5px;
+}
+
+.value {
+    background-color: #3984ff;
+    width: 70%;
+    height: 75px;
+    color: white;
+    font-size: 22px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+}
+
+.value:hover {
+    background-color: rgba(128, 123, 123, 0.459);
+    width: 70%;
+    height: 75px;
+    color: #3984ff;
+    font-size: 22px;
+    outline: none;
+    border: none;
+    border-radius: 15px;
+}
+
+.shinyiet {
+    color: white;
+    border: none;
+    width: 125px;
+    height: 75px;
+    background: rgb(20, 187, 112);
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 22.5px;
+}
+
+.shinyiet:hover {
+    color: rgb(20, 187, 112);
+    border: none;
+    width: 125px;
+    height: 75px;
+    background: #5f58a0;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 22.5px;
+}
